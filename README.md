@@ -1,4 +1,3 @@
-# 2D_Array_in_cpp
 # 2D Arrays (Multidimensional Arrays) and it's Operations in C++
 
 Aim : To study and implement operations on 2D arrays (matrices) in C++.
